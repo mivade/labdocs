@@ -36,4 +36,6 @@ shaded region have stable orbits and are thus trapped.
 .. figure:: figures/qa_FirstRegion.png
    :align: center
 
+Ablation loading
+================
 
